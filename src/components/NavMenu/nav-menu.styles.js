@@ -9,6 +9,14 @@ const StyledMenu = styled.ul`
 	transform: ${({ $menu }) => ($menu ? `translateX(0%)` : `translateX(-100%)`)};
 	transition: ease-in-out 0.2s;
 	z-index: 999;
+
+	@media (min-width: 768px) {
+		position: relative;
+		display: flex;
+		transform: translate(0);
+		justify-content: space-around;
+		border-bottom: 0.5px solid gray;
+	}
 `;
 
 const StyledMenuName = styled.li`
@@ -17,7 +25,6 @@ const StyledMenuName = styled.li`
 	color: white;
 	height: 70px;
 	font-family: 'Spartan', sans-serif;
-	font-size: 15px;
 	font-weight: bold;
 	padding-left: 45px;
 	border-bottom: 0.5px solid gray;
@@ -31,6 +38,19 @@ const StyledMenuName = styled.li`
 		background-color: ${({ $color }) => $color};
 		position: absolute;
 		left: 0px;
+	}
+
+	@media (min-width: 768px) {
+		font-size: 11px;
+		letter-spacing: 1px;
+		line-height: 25px;
+		padding-left: 0;
+		gap: 33px;
+		border-bottom: 0px;
+
+		&::after {
+			width: 0;
+		}
 	}
 `;
 

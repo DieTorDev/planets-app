@@ -7,6 +7,11 @@ const StyledTitleContainer = styled.div`
 	padding-inline: 24px;
 	padding-block: 16px;
 	border-bottom: 1px solid #979797;
+
+	@media (min-width: 768px) {
+		justify-content: center;
+		border-bottom: 0px;
+	}
 `;
 
 const StyledTitle = styled.h1`
@@ -19,6 +24,10 @@ const StyledTitle = styled.h1`
 const StyledHamburguer = styled.img`
 	width: 24px;
 	height: 17px;
+
+	@media (min-width: 768px) {
+		display: none;
+	}
 `;
 
 export { StyledTitleContainer, StyledTitle, StyledHamburguer };
