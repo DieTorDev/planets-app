@@ -17,6 +17,12 @@ const StyledMenu = styled.ul`
 		justify-content: space-around;
 		border-bottom: 0.5px solid gray;
 	}
+
+	@media (min-width: 1280px) {
+		position: static;
+		justify-content: end;
+		gap: 32px;
+	}
 `;
 
 const StyledMenuName = styled.li`
@@ -51,6 +57,10 @@ const StyledMenuName = styled.li`
 		&::after {
 			width: 0;
 		}
+	}
+
+	@media (min-width: 1280px) {
+		cursor: pointer;
 	}
 `;
 

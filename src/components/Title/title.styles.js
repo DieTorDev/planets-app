@@ -12,6 +12,11 @@ const StyledTitleContainer = styled.div`
 		justify-content: center;
 		border-bottom: 0px;
 	}
+
+	@media (min-width: 1280px) {
+		width: 30%;
+		justify-content: start;
+	}
 `;
 
 const StyledTitle = styled.h1`

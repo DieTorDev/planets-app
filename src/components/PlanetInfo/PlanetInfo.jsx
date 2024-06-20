@@ -4,7 +4,7 @@ import {
 	StyledInfoData,
 	StyledInfoTitle,
 	StyledPlanetInfoContainer
-} from './planet-info';
+} from './planet-info.styles';
 
 const PlanetInfo = ({ planetData }) => {
 	return (

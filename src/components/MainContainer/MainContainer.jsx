@@ -11,17 +11,13 @@ const MainContainer = ({ planetData }) => {
 
 	return (
 		<StyledMainContainer>
-			<Header
-				markedTab={markedTab}
-				setMarkedTab={setMarkedTab}
-				showMenu={showMenu}
-				setShowMenu={setShowMenu}
-				planetColor={color}
-			/>
+			<Header showMenu={showMenu} setShowMenu={setShowMenu} />
 			<PlanetText
 				markedTab={markedTab}
+				setMarkedTab={setMarkedTab}
 				planetData={planetData}
 				planetSize={size}
+				planetColor={color}
 			/>
 			<PlanetInfo planetData={planetData} />
 		</StyledMainContainer>
