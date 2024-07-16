@@ -1,7 +1,21 @@
-# ToDo list
+# WikiPlanets
 <p align="center">
-  <img src="https://github.com/DieTorDev/todo-list/blob/main/screenshots/day-mode.png" />
-  <img src="https://github.com/DieTorDev/todo-list/blob/main/screenshots/night-mode.png" />
+  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/banner.png" />
+
+</p>
+
+# Mobile
+<p align="center">
+  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/mobile-1.png" />
+  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/mobile-2.png" />
+  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/mobile-3.png" />
+</p>
+
+# Tablet
+<p align="center">
+  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/tablet-1.png" />
+  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/tablet-2.png" />
+  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/tablet-3.png" />
 </p>
 
 ## Ejemplo en vivo
