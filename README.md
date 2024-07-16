@@ -18,6 +18,13 @@
   <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/tablet-3.png" />
 </p>
 
+# Desktop
+<p align="center">
+  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/desk-1.png" />
+  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/desk-2.png" />
+  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/desk-3.png" />
+</p>
+
 ## Ejemplo en vivo
 
 - [Vista en vivo](https://dietordev.github.io/todo-list/)
