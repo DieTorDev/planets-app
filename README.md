@@ -20,22 +20,22 @@
 
 # Desktop
 <p align="center">
-  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/desk-1.png" />
-  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/desk-2.png" />
-  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/desk-3.png" />
+  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/desktop-1.png" />
+  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/desktop-2.png" />
+  <img src="https://github.com/DieTorDev/planets-app/blob/main/screenshots/desktop-3.png" />
 </p>
 
 ## Ejemplo en vivo
 
-- [Vista en vivo](https://dietordev.github.io/todo-list/)
+- [Vista en vivo](https://wikiplanets.onrender.com)
 
 ## Descripción 📑
 
-Es un prototipo de ToDo list que busca ser eficiente y efectiva.
+Un ejemplo de diseño responsive con Styled Components de React, así como el uso de rutas, estados y contextos.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-Manejo de de eventos y control de elementos del DOM desde JavaScript así como la gestión de variables CSS y el manejo de rutas de archivo en Vite. 
+Manejo de rutas a través de React Router Dom, profundizar en el responsive y gestionar estados (useState). 
 
 ## Tecnologías 🛠
 
